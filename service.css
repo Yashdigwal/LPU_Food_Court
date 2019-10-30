@@ -1,0 +1,52 @@
+.head1{}
+.home1{
+	background-color: white;
+	width: 100%;
+	
+
+}
+ .H1{
+	background-color: black;
+	height: 30px
+
+}
+.H2{
+	background-color: black;
+	width: 100%;
+	height: 100px;
+}
+.H3{
+	background-color: black;
+}
+.H2 h1{
+	width: 25%;
+	line-height: 50px;
+	float: left;
+	padding-left: 70px;
+	font-weight: bold;
+	color: white;
+	font-size: 35px;
+	
+
+}
+.body1{}
+.B1 .B2 .B3 .B4 .B5{}
+.h1  .h2  .h3 .h4 .h5 .h6 .h7 .h8 .h9 .h10{
+
+}
+.h1 h1{
+	margin-left: 20px;
+	margin-top: 15px;
+	 color: white;
+	 text-transform: uppercase;
+}
+.h2 h1{
+	margin-left: 20px;
+	margin-top: 15px;
+	 color: white;
+	 text-transform: uppercase;
+}
+.shop1 .shop3 .shop5 .shop7 .shop9 .shop11 .shop13 .shop15 .shop17 .shop19{}
+.shop1 img .shop3 img .shop5 img .shop7 img .shop9 img .shop11 img .shop13 img .shop15 img .shop17 img .shop19 img{}
+.shop2 .shop4 .shop6 .shop8 .shop10 .shop12 .shop14 .shop16 .shop18 .shop20{} 
+.shop2 a .shop4 a .shop6 a .shop8 a .shop10 a .shop12 a .shop14 a .shop16 a .shop18 a .shop20 a{}
